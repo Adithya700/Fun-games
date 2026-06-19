@@ -6,12 +6,12 @@ A simple command-line implementation of the classic **Rock-Paper-Scissors** game
 
 ##  Features
 
-* 🎮 Interactive command-line gameplay
-* 🤖 Random computer moves
-* 🏆 Best of 5 rounds
-* 📊 Real-time score tracking
-* ⚖️ Tie handling
-* ✨ Emoji representation for each choice
+* Interactive command-line gameplay
+* Random computer moves
+* Best of 5 rounds
+* Real-time score tracking
+* Tie handling
+* Emoji representation for each choice
 
 ---
 
@@ -97,5 +97,6 @@ Score: You 1 - 0 Computer
 ---
 
 ##  Author
+Adithya K S
 
 Built using Python to practice programming fundamentals and create an interactive command-line game.
